@@ -36,7 +36,7 @@ int main() {
     }
 
     printf("O maior valor encontrado: %d\n", maiorValor);
-    printf("Ele esta localizado na Linha: %d, Coluna: %d\n\n", linha, coluna);
+    printf("Ele esta na linha: %d, Coluna: %d\n", linha, coluna);
 
     system("pause");
     return 0;
